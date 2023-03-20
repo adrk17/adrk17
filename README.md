@@ -7,7 +7,7 @@
     - [Travel Bud | .NET MAUI](https://github.com/adrk17/TravelBudMaui)
     - [Poker game in CLI Server/Client | Java](https://github.com/adrk17/poker)
     - [Readers/Writers problem | Java](https://github.com/adrk17/Library)
-    - [Web app - apartment rental site for students | [React JS / Python]](https://github.com/iAndRYou/RentALL)
+    - [Web app - apartment rental site for students | React JS / Python](https://github.com/iAndRYou/RentALL)
     - [Unity game made in HS | Unity C#](https://github.com/adrk17/Terraforminium)
 - My ongoing projects :
     - [Hastar | Unity C#](https://github.com/AGH-Code-Industry/hastar)
